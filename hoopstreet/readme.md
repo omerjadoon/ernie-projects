@@ -2,7 +2,7 @@
 ### Admin Portal + Customer Portal
 
 ### Technology
-Laravel
+Laravel PHP
 
 ## Screenshot # 1
 
@@ -19,4 +19,4 @@ Laravel
 
 ## License
 
-The [MIT license](http://opensource.org/licenses/MIT).
+Copyright 2021 -  www.hoopstreet.com - Developed by Jadoon Technologies 
