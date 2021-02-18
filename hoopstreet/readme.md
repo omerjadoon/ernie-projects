@@ -1,15 +1,13 @@
-## Investment Project in PHP Laravel
+## Hoop Street
+### Admin Portal + Customer Portal
 
+### Technology
+Laravel
 
-## Usage
+## Screenshot
 
-This is not a package - it's a full Laravel project that contain basic functionalities about investment platform.
+![Image description](https://github.com/LarrySul/Parallax-Landing-Page/blob/master/src/img/Screenshot%20(285).png)
 
-- Clone the repository with `git clone`
-- Run `composer install`
-- Run `php artisan key:generate`
-- Run `php artisan migrate --seed` (it has some seeded data - see below)
-- That's it: launch the main URL and login with default credentials `admin@admin.com` - `password`
 
 
 ## License
