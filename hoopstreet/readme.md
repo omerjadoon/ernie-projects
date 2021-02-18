@@ -6,7 +6,7 @@ Laravel
 
 ## Screenshot
 
-![Image description](https://github.com/LarrySul/Parallax-Landing-Page/blob/master/src/img/Screenshot%20(285).png)
+![Image description](https://raw.githubusercontent.com/omerjadoon/ernie-projects/main/screenshots/hoopstreet.png)
 
 
 
