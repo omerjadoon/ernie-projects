@@ -4,9 +4,16 @@
 ### Technology
 Laravel
 
-## Screenshot
+## Screenshot # 1
 
 ![Image description](https://raw.githubusercontent.com/omerjadoon/ernie-projects/main/screenshots/hoopstreet.png)
+
+## Screenshot # 2
+
+![Image description](https://raw.githubusercontent.com/omerjadoon/ernie-projects/main/screenshots/hoopstreetinvestment.png)
+
+
+
 
 
 
