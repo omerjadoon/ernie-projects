@@ -1,14 +1,4 @@
-## Hoop Street
-### Admin Portal + Customer Portal
-
-###Technology
-Laravel PHP
-
-
-## Screenshot
-
-
-
+## This is Ernie Projects Github Repo
 
 ## License
 
